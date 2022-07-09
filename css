@@ -1,0 +1,40 @@
+ 
+ 
+
+/* this one is for changing the FONT, size , coloring , of the text used in your web page */
+/* h1{font-family:"Press Start 2P", "consolas" , "sans-serif";}
+
+
+ p{
+
+ font-style: italic;
+font-weight: bold;
+text-decoration: dashed;
+ border-style: outset;
+ border-width: 5px;
+border-color: gold;
+border-left: 3px;
+border-left-color: red;}
+
+*/
+
+/* the bottom code is using css to add pictures to your web-page and colloring it how you like.*/
+
+ /* body{
+
+
+background-image: url(https://cdnb.artstation.com/p/assets/images/images/002/976/021/small/oskar-karlsson-bar01.jpg?1467985224);
+ 
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+
+}
+h1{
+    background: linear-gradient( violet , skyblue);
+
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+} */
