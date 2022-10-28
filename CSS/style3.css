@@ -1,0 +1,44 @@
+/*
+#title{
+
+   
+box-shadow: 1px 1px 1px red;
+ 
+}
+
+h1:hover{
+ 
+   text-shadow: 0px  0px  5px   rgb(224, 240, 11), 0px -3px 5px red;
+
+
+}
+
+*/
+
+
+.fa-twitter{
+
+    color: skyblue;
+}
+
+.fa-youtube{
+    color: red;
+}
+
+.fa-instagram{
+    color:tomato;
+}
+.fa-telegram{
+
+    color: skyblue;
+}
+
+.fa-house{
+    color: tomato;
+}
+
+header{position: static;
+
+width: 10px;
+height: 100px;
+}

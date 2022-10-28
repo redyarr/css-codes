@@ -1,0 +1,28 @@
+body{
+    background-color: violet;
+    
+        }
+    h1{
+        color: white;
+    }
+    
+    p{
+        color: cyan;
+    }
+  /*  #special{
+
+        color: red;
+    }
+       
+    #red{
+        color: chartreuse;
+    }
+    #redy{color: tomato;}
+    #redyar{
+
+        color: beige;
+    }
+*/
+.odd{color : red;}
+.even{color: paleturquoise;}
+

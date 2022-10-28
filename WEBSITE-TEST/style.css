@@ -1,0 +1,38 @@
+body{
+
+    margin: 0%;
+padding: 0%;
+
+background-color: cyan;
+}
+
+.container{ 
+    width: 185px ; height: 284px  ;
+    position: relative   ; 
+    
+}
+
+.container img{width: 185px ; height: 284px  ;
+
+
+}
+
+.txt{
+ font-family: 'Open Sans', sans-serif;
+color: white;
+ font-size: 25px;
+
+ position: absolute;
+ top: 60%;
+
+ left: 25%;
+
+ text-shadow: 0 0 10 black;
+}
+
+
+.txt:hover{
+
+    color: tomato;
+    
+}

@@ -1,0 +1,199 @@
+ 
+ 
+
+/* this one is for changing the FONT, size , coloring , of the text used in your web page */
+/* h1{font-family:"Press Start 2P", "consolas" , "sans-serif";}
+
+
+ p{
+
+ font-style: italic;
+font-weight: bold;
+text-decoration: dashed;
+ border-style: outset;
+ border-width: 5px;
+border-color: gold;
+border-left: 3px;
+border-left-color: red;}
+
+*/
+
+/* the bottom code is using css to add pictures to your web-page and colloring it how you like.*/
+
+ /* body{
+
+
+background-image: url(https://cdnb.artstation.com/p/assets/images/images/002/976/021/small/oskar-karlsson-bar01.jpg?1467985224);
+ 
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+
+}
+h1{
+    background: linear-gradient( violet , skyblue);
+
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+} */
+
+
+
+
+/* margins , are the spaces between two elements , 
+for example the body and the box1 element ,
+or the space between box1 and box2 is called margin.
+
+but padding is the space between the border and the text 
+or content inside the border.
+*/
+
+/*
+body{
+
+    margin: 0%;
+}
+
+#boxl{
+
+    border: 5px solid;
+ width: 250px;
+ height: 250px;
+ font-size: 22px ;
+ background-color: skyblue;
+
+
+ margin-left: auto;
+
+}
+
+
+#box2{
+
+    border: 5px solid;
+ width: 250px;
+ height: 250px;
+ font-size: 22px ;
+ background-color: pink;
+
+
+}        */
+
+
+/* float = a text that you put next to an image 
+#red{
+width: 600px;
+height: 500px;
+border: 1 solid;
+float: right;
+
+}
+*/
+
+/*
+#box1{
+
+border: 1px solid;
+height: 300px;
+width: 300px;
+background-color: skyblue;
+
+position: relative ;
+left: 250px ;
+}
+
+
+#box2{
+border: 1px solid;
+
+height: 100px;
+width: 100px;
+background-color: red;
+position: absolute;
+
+top: 100px;
+left: 100px;
+
+
+}
+
+
+*/
+
+/*
+a:link {
+
+
+    color: aqua;
+}
+ a:visited{
+
+    color: gray;
+ }
+
+ a:hover{
+
+color: tomato;
+
+ }
+
+ a:active{
+
+    color: gold;
+ }
+
+button:hover{
+
+    color: violet;
+
+}
+button:active{
+
+    background-color: blueviolet;
+}
+
+li:nth-child(1){
+    background-color: rgb(121, 18, 18);
+}
+
+li:nth-child(2){
+background-color: rgb(37, 37, 139);
+
+}
+
+li:nth-child(3){
+
+    background-color:skyblue;
+}
+
+
+li:nth-child(4){
+
+    background-color: rgb(21, 216, 21);
+}
+
+*/
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
